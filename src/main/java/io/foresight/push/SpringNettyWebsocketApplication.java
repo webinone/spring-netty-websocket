@@ -1,4 +1,4 @@
-package io.foresight.websocket;
+package io.foresight.push;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

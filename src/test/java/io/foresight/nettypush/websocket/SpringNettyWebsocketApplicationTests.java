@@ -1,4 +1,4 @@
-package io.foresight.websocket;
+package io.foresight.nettypush.websocket;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
