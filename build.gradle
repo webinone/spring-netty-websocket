@@ -24,6 +24,11 @@ dependencies {
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
     annotationProcessor 'org.projectlombok:lombok'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+    // https://mvnrepository.com/artifact/io.netty/netty-all
+    // netty
+    implementation group: 'io.netty', name: 'netty-all', version: '4.1.79.Final'
+
 }
 
 tasks.named('test') {
